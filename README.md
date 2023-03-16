@@ -1,16 +1,28 @@
-# drip_style
+# Drip Style
 
-A new Flutter project.
+A social media app that makes you connect with people around the world via videos, chats, pictures and many more.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Custom photo feed based on who you follow
+Post photo posts from camera or gallery
+Like posts
+View all likes on a post
+Comment on posts
+View all comments on a post
+Search for users
+Search screen showing all images except your own
+Search based on usernames
+Profile Screen
+Follow / Unfollow Users
+Change image view from grid layout to feed layout
+Edit profile
+Chat Screen
+Chat with any user
+Share images while chatting
 
-A few resources to get you started if this is your first Flutter project:
+## Setup App
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Firebase Panel
+Create Firebase Project (https://console.firebase.google.com/);
+import the file google-service.json into your project
